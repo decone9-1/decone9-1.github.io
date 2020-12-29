@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/decone9/decone9.github.io.git</id>
+    <id>https://github.com/decone9-1/decone9-1.github.io.git</id>
     <title>Decone9遗忘录</title>
-    <updated>2020-12-29T09:07:47.836Z</updated>
+    <updated>2020-12-29T09:14:41.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/decone9/decone9.github.io.git"/>
-    <link rel="self" href="https://github.com/decone9/decone9.github.io.git/atom.xml"/>
+    <link rel="alternate" href="https://github.com/decone9-1/decone9-1.github.io.git"/>
+    <link rel="self" href="https://github.com/decone9-1/decone9-1.github.io.git/atom.xml"/>
     <subtitle>记录将被遗忘的回忆</subtitle>
-    <logo>https://github.com/decone9/decone9.github.io.git/images/avatar.png</logo>
-    <icon>https://github.com/decone9/decone9.github.io.git/favicon.ico</icon>
+    <logo>https://github.com/decone9-1/decone9-1.github.io.git/images/avatar.png</logo>
+    <icon>https://github.com/decone9-1/decone9-1.github.io.git/favicon.ico</icon>
     <rights>All rights reserved 2020, Decone9遗忘录</rights>
     <entry>
         <title type="html"><![CDATA[告别“动荡不安”的2020]]></title>
-        <id>https://github.com/decone9/decone9.github.io.git/post/gao-bie-dong-dang-bu-an-de-2020/</id>
-        <link href="https://github.com/decone9/decone9.github.io.git/post/gao-bie-dong-dang-bu-an-de-2020/">
+        <id>https://github.com/decone9-1/decone9-1.github.io.git/post/gao-bie-dong-dang-bu-an-de-2020/</id>
+        <link href="https://github.com/decone9-1/decone9-1.github.io.git/post/gao-bie-dong-dang-bu-an-de-2020/">
         </link>
         <updated>2020-12-28T13:52:44.000Z</updated>
         <content type="html"><![CDATA[<p>写在2020年的最后</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/decone9/decone9.github.io.git/post/hello-gridea/</id>
-        <link href="https://github.com/decone9/decone9.github.io.git/post/hello-gridea/">
+        <id>https://github.com/decone9-1/decone9-1.github.io.git/post/hello-gridea/</id>
+        <link href="https://github.com/decone9-1/decone9-1.github.io.git/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
